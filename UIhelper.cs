@@ -1,3 +1,7 @@
+using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
+
 class UIhelper{
 	public UIhelper()
 	{
